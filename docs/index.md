@@ -271,7 +271,7 @@ F - 用于从板接收串行数据并将串行数据发送到板的串行监视
 
 ### 实验一 LED 模块测试
 
-在线刷视频：
+在线安装视频：
 [https://www.bilibili.com/video/BV12y411Y7sN/](https://www.bilibili.com/video/BV12y411Y7sN/)
 
 
