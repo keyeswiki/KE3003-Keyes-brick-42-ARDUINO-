@@ -271,6 +271,10 @@ F - 用于从板接收串行数据并将串行数据发送到板的串行监视
 
 ### 实验一 LED 模块测试
 
+在线刷视频：
+[https://www.bilibili.com/video/BV12y411Y7sN/](https://www.bilibili.com/video/BV12y411Y7sN/)
+
+
 实验说明
 
 在这个套件中，我们有一个keyes brick LED白发白模块。它的控制方法非常简单，控制时，GND VCC上电后；信号端S为高电平时LED亮起，S为低电平时LED熄灭。
