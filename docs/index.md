@@ -263,7 +263,8 @@ F - 用于从板接收串行数据并将串行数据发送到板的串行监视
 
 ## 单个传感器/模块实验课程
 
-在线课程视频：
+<span style="background: rgb(61, 170, 214);"><span style="color: rgb(255, 255, 255);">在线课程视频：</span></span>
+
 [https://www.bilibili.com/video/BV12y411Y7sN/](https://www.bilibili.com/video/BV12y411Y7sN/)
 
 
