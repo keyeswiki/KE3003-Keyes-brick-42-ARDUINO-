@@ -9,7 +9,7 @@
 .. toctree::
     :maxdepth: 1
 
-:download:`点击下载资料文件<Mixly代码.zip>`
+:download:`点击下载资料文件<Mixly资料.zip>`
 
 3.2 Mixly 基础教程
 =======================
